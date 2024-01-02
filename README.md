@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 <p align="center"><a href="https://github.com/derbetakevin/dotfiles">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=derbetakevin&repo=dotfiles&show_icons=true&theme=chartreuse-dark&locale=de" />
 </a>
-<a href="https://github.com/derbetakevin/nixos-flakes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=derbetakevin&repo=nixos-flakes&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a></p>
 
 
 
