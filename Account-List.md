@@ -3,6 +3,7 @@
 |-|-|-|
 | ArchLinux User Repository | derbetakevin | https://aur.archlinux.org/account/derbetakevin |
 | ASKfm | derbetakevin | https://ask.fm/derbetakevin |
+| CityStrides | Kevin Wiechering | https://citystrides.com/users/80336 |
 | Codeberg | derbetakevin | https://codeberg.org/derbetakevin |
 | Deskmodder Forum | derbetakevin | https://www.deskmodder.de/phpBB3/memberlist.php?mode=viewprofile&u=38735 |
 | Deviant Art | derbetakevin | https://www.deviantart.com/derbetakevin |
@@ -12,15 +13,17 @@
 | GuteFrage.net | DerBetaKevin | https://www.gutefrage.net/nutzer/DerBetaKevin |
 | Instagram | derbetakevin | https://www.instagram.com/derbetakevin |
 | Internet Archive | Der Beta Kevin | https://archive.org/details/@der_beta_kevin |
+| MyFitnessPal | derbetakevin | https://www.myfitnesspal.com/de/profile/derbetakevin |
 | NixOS Discourse Forum | derbetakevin | https://discourse.nixos.org/u/derbetakevin/summary |
 | osu! | derbetakevin | https://osu.ppy.sh/users/9207545 |
 | osu!lazer | derbetakevin | https://lazer.ppy.sh/users/9207545 |
+| Reddit | u/derbetakevin | https://www.reddit.com/user/derbetakevin/ |
 | RetroAchievements | derbetakevin | https://retroachievements.org/user/derbetakevin |
 | Scammer.Info | derbetakevin | https://scammer.info/u/derbetakevin/summary |
 | SnapChat | derbetakevin | https://www.snapchat.com/add/derbetakevin |
 | SoundCloud | derbetakevin | https://soundcloud.com/derbetakevin |
-| Spielaffe | Kevinsky123 | https://www.spielaffe.de/profile/9b2904fc-647f-4728-b7bf-ada71942932e |
 | Steam | derbetakevineu | https://steamcommunity.com/id/derbetakevineu |
+| Strava | Kevin Wiechering | https://www.strava.com/athletes/derbetakevin |
 | Tellonym | derbetakevin | https://tellonym.me/derbetakevin |
 | TikTok | derbetakevin | https://www.tiktok.com/@derbetakevin |
 | Trakt | derbetakevin | https://trakt.tv/users/derbetakevin |
