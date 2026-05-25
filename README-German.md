@@ -1,30 +1,20 @@
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=derbetakevin&show_icons=true&theme=chartreuse-dark&locale=de" />
-</a></p>
-
 <p align="center"><a href="https://git.io/streak-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=derbetakevin&theme=chartreuse-dark&locale=de&mode=weekly" />
 </a></p>
 
-# Ausführlichere Deutsche Version
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.derbetakevin.one&style=for-the-badge&label=derbetakevin.one)](https://www.derbetakevin.one)
+
+[![wakatime](https://wakatime.com/badge/user/682e2c58-c624-4d98-8b0b-67a56585cdd2.svg)](https://wakatime.com/@682e2c58-c624-4d98-8b0b-67a56585cdd2)
+
+# Deutsche Version
 ### 😄 Über mich
-Ich bin der Beta Kevin, Baujahr 2000, komme aus Norddeutschland und nutze seit Dezember 2022 Linux.
-#### 🐧 Wieso nutze ich Linux?
-Ich nutze Linux, weil Windows 11 mir einerseits zuviel Leistung gefressen hat, andererseits ist Linux viel Anpassungsfähiger, Leitungsfreundlicher und dazu gibt es eine riesige Auswahl an Distros und Programmen, das man (wie bei YouTube) nie fertig wird alles zu entdecken.
-- [Meine Distro-Rangliste (Stand: 23.11.2023)](https://tiermaker.com/list/pc-gaming/linux-distros-20-16123082/3489667)
+Ich bin der Beta Kevin, Baujahr 2000, komme aus Norddeutschland und nutze seit Februar 2024 macOS.
 
 ### 🖥️ Meine Hardware
-- CPU: AMD Ryzen 2400G mit Vega 11 Graphics
-- GPU: AMD Radeon RX 550 mit 4GB VRAM
-- RAM: 16GB DDR4
-- Webcam: Logitech HD Pro C920
-- 3 Monitore
-- Maus und Tastatur
-- Stream Deck MK.2
-- Tetris Mauspad c:
+Mac mini M4 mit 256GB Festplatte und 16GB RAM
 
-### ⭐ Meine empfohlenen Repositories
-- [JerrySM64/XWayland-Video-Brigde-Quick-Setup](https://github.com/JerrySM64/Xwayland-Video-Bridge-Quick-Setup)
+### 💾 Meine Software
+[![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-%20?style=for-the-badge&color=0078D4)](https://code.visualstudio.com) [![Static Badge](https://img.shields.io/badge/Antigravity%20-%20?style=for-the-badge&color=white)](https://antigravity.google)
 
 ### 📫 Erreichbar über
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/310769924564058112)
@@ -33,9 +23,8 @@ Ich nutze Linux, weil Windows 11 mir einerseits zuviel Leistung gefressen hat, a
 [![Gitlab](https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/derbetakevin)
 [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://social.linux.pizza/@derbetakevin)
 [![Twitch Status](https://img.shields.io/twitch/status/derbetakevin?style=for-the-badge)](https://twitch.tv/derbetakevin)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/derbetakevin?style=for-the-badge&color=1DA1F2)](https://x.com/intent/follow?screen_name=derbetakevin)
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCuN5q1X5iC8XfrWRU_q2rgA?style=for-the-badge&label=YouTube)](https://www.youtube.com/channel/UCuN5q1X5iC8XfrWRU_q2rgA)
 
-- Homepage   : <https://www.derbetakevin.eu>
-- Facebook   : <https://www.facebook.com/derbetakevin>
-- Instagram  : <https://www.instagram.com/derbetakevin>
-- Twitter    : <https://www.twitter.com/derbetakevin>
+* Facebook : <https://www.facebook.com/derbetakevin>
+* Instagram : <https://www.instagram.com/derbetakevin>
